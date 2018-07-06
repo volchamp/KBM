@@ -1,0 +1,2 @@
+# TBSFileBrowsing
+利用腾讯浏览服务TBS，在Android应用内实现office文件的浏览，包含了远程文件的下载
