@@ -16,6 +16,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    // 没有以下代码模拟器安装apk时  INSTALL_FAILED_NO_MATCHING_ABIS
+    // 解决 native libraries 不支持cpu的体系结构。同时编译X86及ARM类型，允许模拟器调试（打包时记得注释并rebuild）
+//    splits {
+//        abi {
+//            enable true
+//            reset()
+//            include 'x86', 'armeabi-v7a','x86_64'
+//            universalApk true
+//        }
+//    }
 }
 
 dependencies {
