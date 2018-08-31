@@ -5,7 +5,6 @@
 <img src="https://github.com/yangxch/TBSFileBrowsing/raw/master/screenshot/download.jpg" width="35%" height="35%">
   <br><br>
 <img src="https://github.com/yangxch/TBSFileBrowsing/raw/master/screenshot/load.jpg" width="35%" height="35%">
-<br><br>
 <img src="https://github.com/yangxch/TBSFileBrowsing/raw/master/screenshot/show.jpg" width="35%" height="35%">
 </div>
 
