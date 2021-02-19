@@ -9,6 +9,6 @@
 </div>
 
 ***
-更多技术干货，欢迎关注我的公众号：ChaoYoung
+更多技术干货，欢迎关注我的公众号：程序员大佬超
 <br><img src="https://github.com/yangxch/TBSFileBrowsing/raw/master/screenshot/qrcode_chaoyoung.jpg" width="20%" height="20%">
 
